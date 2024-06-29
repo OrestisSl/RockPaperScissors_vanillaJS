@@ -33,5 +33,7 @@ To run this project locally, follow these steps:
 ## Demo Showcase
 ![Game Screenshot](image/showcase.png)
 
+live demo at: `https://rock-paper-scissors-js-vanilla.netlify.app/`
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
