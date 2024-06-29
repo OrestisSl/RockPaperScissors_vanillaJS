@@ -30,5 +30,8 @@ To run this project locally, follow these steps:
 - The game will display the player's choice, computer's choice, and the result of the round.
 - Use the "Reset" button to start a new game after each round.
 
+## Demo Showcase
+![Game Screenshot](image/showcase.png)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
